@@ -772,7 +772,7 @@
     "romaji": "Nen ni wa nen wo ireyo",
     "english": "Put care into care",
     "meaning": "Double-check; be extra careful",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -782,7 +782,7 @@
     "english": "Regret does not stand before",
     "meaning": "It's too late for regrets",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 88,
@@ -790,7 +790,7 @@
     "romaji": "Nai sode wa furenu",
     "english": "You can't shake a sleeve you don't have",
     "meaning": "You can't give what you don't have",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
